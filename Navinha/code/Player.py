@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
 
-from Empty import Empty
+from Entity import Empty
 
 class Player(Empty):
     def __init__(self):
